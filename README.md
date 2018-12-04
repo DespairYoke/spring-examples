@@ -8,7 +8,7 @@
 ## [什么是事务分布式?](https://blog.csdn.net/forezp/article/details/84503386)
 > 使用事务分布式解决服务直接调用时，超时等误操影响的数据不一致问题。
 
-## [分布式产生的原因](https://blog.csdn.net/mine_song/article/details/64118963)
+## [深入理解分布式事务,高并发下分布式事务的解决方案](https://blog.csdn.net/mine_song/article/details/64118963)
 
 
 
