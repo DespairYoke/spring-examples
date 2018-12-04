@@ -6,7 +6,10 @@
 > 基于zookeeper </br>
 
 ## [什么是事务分布式?](https://blog.csdn.net/forezp/article/details/84503386)
-
 > 使用事务分布式解决服务直接调用时，超时等误操影响的数据不一致问题。
+
+## [分布式产生的原因](https://blog.csdn.net/mine_song/article/details/64118963)
+
+
 
 
