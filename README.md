@@ -11,6 +11,10 @@
 ## [深入理解分布式事务,高并发下分布式事务的解决方案](https://blog.csdn.net/u010425776/article/details/79516298)
 
 
+## [形象的理解面向切面编程](https://www.cnblogs.com/xuejupo/p/5206087.html)
+
 ## [aop深入理解](https://blog.csdn.net/yuexianchang/article/details/77018603)
 
 ![](./image/aop.png)
+
+* [ProxyFactroyBean](https://blog.csdn.net/linuu/article/details/50972036)

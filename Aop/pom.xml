@@ -5,13 +5,14 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.zwd.example</groupId>
-    <artifactId>spring-examples</artifactId>
+    <artifactId>Aop</artifactId>
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
-
     <modules>
-        <module>dynamic-proxy</module>
-        <module>Aop</module>
+        <module>proxyfactory-demo</module>
+        <module>proxyfactorybean-demo</module>
+        <module>aspectJproxyfactory-demo</module>
     </modules>
+
 
 </project>
