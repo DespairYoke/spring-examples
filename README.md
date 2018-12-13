@@ -18,3 +18,10 @@
 ![](./image/aop.png)
 
 * [ProxyFactroyBean](https://blog.csdn.net/linuu/article/details/50972036)
+
+
+
+## [Netty的使用和理解](https://blog.csdn.net/linuu/article/list/3?t=1)
+
+
+## [手写一个RPC](https://blog.csdn.net/linuu/article/list/2?t=1)
