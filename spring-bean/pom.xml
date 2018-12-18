@@ -4,17 +4,9 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.zwd.example</groupId>
-    <artifactId>spring-examples</artifactId>
-    <packaging>pom</packaging>
+    <groupId>cn.ccxst.spring</groupId>
+    <artifactId>spring-bean</artifactId>
     <version>1.0-SNAPSHOT</version>
 
-    <modules>
-        <module>dynamic-proxy</module>
-        <module>Aop</module>
-        <module>spring-bean</module>
-        <module>spring-bean-test</module>
-        <module>bean-life</module>
-    </modules>
 
 </project>

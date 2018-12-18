@@ -21,5 +21,6 @@ public class ProxyFactoryBeanTest {
         UserService userService = applicationContext.getBean("proxyFactoryBean", UserService.class);
 
         userService.getUserid("zwd");
+
     }
 }
